@@ -1,5 +1,5 @@
 public class Main {
-    // ДЗ-12 1.9. Объекты и классы
+    // ДЗ-12 1.9 Объекты и классы
     public static void main(String[] args) {
         Book aBook = new Book ("War and Peace",100,"Book Publishing Ltd.",1720);
         Author author = new Author("L.Tolstoy");

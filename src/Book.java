@@ -1,4 +1,5 @@
 public class Book {
+    // ДЗ-12 1.9 Объекты и классы
     private final String authorName;
     private final int pageAmount;
     private String publisherName;
